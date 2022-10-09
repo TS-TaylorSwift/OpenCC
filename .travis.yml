@@ -27,7 +27,7 @@ addons:
 
 # Install scripts. (runs after repo cloning)
 install:
-  # install modules
+  # install module
   - npm install --build-from-source
 
 # Post-install test scripts.
